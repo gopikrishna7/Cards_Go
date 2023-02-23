@@ -7,4 +7,6 @@ func main() {
 	myDeck.shuffle()
 	myDeck.print()
 
+	//some changes
+
 }
